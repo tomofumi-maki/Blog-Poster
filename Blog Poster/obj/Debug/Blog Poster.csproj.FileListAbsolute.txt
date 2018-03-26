@@ -1,0 +1,17 @@
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\bin\Debug\Blog Poster.exe.config
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\bin\Debug\Blog Poster.exe
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\bin\Debug\Blog Poster.pdb
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\obj\Debug\Blog Poster.csprojResolveAssemblyReference.cache
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\obj\Debug\MainWindow.g.cs
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\obj\Debug\App.g.cs
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\obj\Debug\Blog Poster_MarkupCompile.cache
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\obj\Debug\Blog Poster_MarkupCompile.lref
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\obj\Debug\MainWindow.baml
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\obj\Debug\Blog Poster.g.resources
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\obj\Debug\Blog_Poster.Properties.Resources.resources
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\obj\Debug\Blog Poster.csproj.GenerateResource.cache
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\obj\Debug\Blog Poster.csproj.CoreCompileInputs.cache
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\obj\Debug\Blog Poster.exe
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\obj\Debug\Blog Poster.pdb
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\obj\Debug\confirmation.g.cs
+C:\Users\tomofumi\source\repos\Blog Poster\Blog Poster\obj\Debug\confirmation.baml
